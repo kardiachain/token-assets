@@ -31,30 +31,32 @@ The data file contains information about the project, for example:
 }
 ```
 
-	+ *(Required)* contract: the token contract address in checksum format
-	+ *(Required)* type: token format (KRC-20, KRC-721, KRC-1155)
-	+ *(Required)* name: name of token must match the deployed token's name
-	+ *(Required)* symbol: token symbol must match the deployed token's symbol
-	+ *(Required)* decimals: token symbol must match the deployed token's decimals
-	+ *(Required)* description: short introduction about the project
-	+ *(Required)* website: main website of the project
-	+ *(Required)* github: source code of the project
-	+ *(Optional)* telegram, medium, twitter, facebook: social links
+	(Required) contract: the token contract address in checksum format
+	(Required) type: token format (KRC-20, KRC-721, KRC-1155)
+	(Required) name: name of token must match the deployed token's name
+	(Required) symbol: token symbol must match the deployed token's symbol
+	(Required) decimals: token symbol must match the deployed token's decimals
+	(Required) description: short introduction about the project
+	(Required) website: main website of the project
+	(Required) github: source code of the project
+	(Optional) telegram, medium, twitter, facebook: social links
 
 7. Create a pull request to the **master** repository and wait for the verification process.
-8. The fee for the verification is **500 KAI** (dynamic, change over time)
+8. The fee for the verification is **500 KAI** (dynamic, change over time).
 After your pull request meets the requirements, send the payment to the following address on KardiaChain Aris Mainnet **0xE8A5B3C80551E48c5a527a473FbbaCceF858Bbdb** and provide the transaction hash.
 
-## Policy
-1. We do not verify the functions that develop on the token contract (eg: mint() function of the token's owner, pause() transfer or trading forbidden...)
-2. We do not verify other source codes, smart contracts that implementation on top of the token contract.
-3. We do not guarantee the business model of the projects or behaviors of the token's owner.
+## Disclaimer
+1. Verified token does not mean the project is in partnership with KardiaChain
+2. We do not verify the functions that develop on the token contract (eg: mint() function of the token's owner, pause() transfer or trading forbidden...)
+3. We do not verify other source codes, smart contracts that implementation on top of the token contract.
+4. We do not guarantee the business model of the projects or behaviors of the token's owner.
 5. Unverified token does not mean the token is not legit, token's owner can still verify the source code of the token contract without adding logo.
-4. Do your own research and invest at your own risk.
+6. Do your own research and invest at your own risk.
+7. We reserve the right to take down any reported scam, fraud projects.
 
 ## Where is the token logo and infomation located?
 + Default logo of unverified token <img src="https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/default.png" width="24">
 
-+ Verified token logo will be displayed on the explorer including token page, search bar, token transfer section and so on
-<img src="https://raw.githubusercontent.com/kardiachain/token-assets/master/samples/sample_1.png" width="250">
-<img src="https://raw.githubusercontent.com/kardiachain/token-assets/master/samples/sample_2.png" width="250">
++ Verified tokens logo will be displayed on the explorer including token page, search bar, token transfer section and so on
+<img src="https://raw.githubusercontent.com/kardiachain/token-assets/master/samples/sample_1.png" width="500">
+<img src="https://raw.githubusercontent.com/kardiachain/token-assets/master/samples/sample_2.png" width="500">
