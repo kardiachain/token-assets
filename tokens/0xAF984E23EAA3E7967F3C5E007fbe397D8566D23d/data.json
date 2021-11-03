@@ -1,0 +1,14 @@
+{
+    "contract": "0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d",
+    "type": "KRC-20",
+    "name": "WKAI",
+    "symbol": "WKAI",
+    "decimals": 18,
+    "description": "Wrapped KAI (WKAI) is a token that represents KAI 1:1 and conforms to the KRC20 token format. WKAI KRC20 increases the token's functionality, including but not limited to dApps on KardiaChain ecosystem. DApps might require users to convert KAI to WKAI and you can unwrap your WKAI to KAI 1:1 at any time.",
+    "website": "https://kaidex.io/wkai",
+    "github": "",
+    "telegram": "",
+    "twitter": "",
+    "medium": "",
+    "facebook": ""
+}
