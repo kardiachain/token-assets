@@ -1,0 +1,14 @@
+{
+    "contract": "0x5FFD7a138422cBbcfB53908AD51F656D7C6c640F",
+    "type": "KRC-20",
+    "name": "Info Token",
+    "symbol": "INFO",
+    "decimals": 18,
+    "description": "The native token of kardiainfo.com - a place to view statistics about all the projects on the KardiaChain network.",
+    "website": "kardiainfo.com",
+    "github": "https://gist.github.com/dimka3553/ff1f2f426fe4ff522da8ed6da0f20079",
+    "telegram": "https://t.me/kardiainfo",
+    "medium": "",
+    "twitter": "https://twitter.com/KardiaInfo",
+    "facebook": ""
+}
