@@ -43,7 +43,7 @@ The data file contains information about the project, for example:
 
 7. Create a pull request to the **master** repository and wait for the verification process.
 8. The fee for the verification is **500 KAI** (dynamic, change over time).
-After your pull request meets the requirements, send the payment to the following address on KardiaChain Aris Mainnet **0xE8A5B3C80551E48c5a527a473FbbaCceF858Bbdb** and provide the transaction hash.
+After your pull request meets the requirements, send the payment from **token's owner address** to the following address on KardiaChain Aris Mainnet **0xE8A5B3C80551E48c5a527a473FbbaCceF858Bbdb** and provide the transaction hash.
 
 ## Disclaimer
 1. Verified token does not mean the project is in partnership with KardiaChain
