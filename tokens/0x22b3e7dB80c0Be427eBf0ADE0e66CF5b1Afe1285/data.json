@@ -1,0 +1,14 @@
+{
+	"contract": "0x22b3e7dB80c0Be427eBf0ADE0e66CF5b1Afe1285",
+	"type": "KRC-20",
+	"name": "OdinDAO Token",
+	"symbol": "ODIN",
+	"decimals": 18,
+	"description": "OdinDAO Token (ODIN) is a utility token that powers the decentralized autonomous organization (DAO), OdinDAO.",
+	"website": "https://odindao.com",
+	"github": "https://github.com/OdinDAO",
+	"telegram": "https://t.me/OdinDAO",
+	"medium": "https://odindao.medium.com",
+	"twitter": "https://twitter.com/OdinDAO",
+	"facebook": ""
+}
