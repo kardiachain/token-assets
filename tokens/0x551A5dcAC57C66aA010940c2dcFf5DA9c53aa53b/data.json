@@ -1,0 +1,14 @@
+{
+    "contract": "0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b",
+    "type": "KRC-20",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "description": "KRC-20 pegged version of USDT Token",
+    "website": "https://tether.to/",
+    "github": "",
+    "telegram": "",
+    "medium": "",
+    "twitter": "",
+    "facebook": ""
+}
