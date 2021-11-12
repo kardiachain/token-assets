@@ -1,0 +1,14 @@
+{
+    "contract": "0x1540020a94aA8bc189aA97639Da213a4ca49d9a7",
+    "type": "KRC-20",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "description": "KRC20 pegged version of ETH Token",
+    "website": "",
+    "github": "",
+    "telegram": "",
+    "medium": "",
+    "twitter": "",
+    "facebook": ""
+}
