@@ -1,0 +1,14 @@
+{
+    "contract": "0xd7D045BFBa6Ea93b480F409DB3dd1729337C1d13",
+    "type": "KRC-20",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "description": "KRC20 pegged version of BNB Token",
+    "website": "",
+    "github": "",
+    "telegram": "",
+    "medium": "",
+    "twitter": "",
+    "facebook": ""
+}
