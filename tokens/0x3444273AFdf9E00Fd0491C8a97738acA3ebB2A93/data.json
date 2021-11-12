@@ -1,0 +1,14 @@
+{
+    "contract": "0x3444273AFdf9E00Fd0491C8a97738acA3ebB2A93",
+    "type": "KRC-20",
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "description": "KRC20 pegged version of BUSD Token",
+    "website": "",
+    "github": "",
+    "telegram": "",
+    "medium": "",
+    "twitter": "",
+    "facebook": ""
+}
