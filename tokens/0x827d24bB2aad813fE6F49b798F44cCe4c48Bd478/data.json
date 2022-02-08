@@ -1,0 +1,14 @@
+{
+    "contract": "0x827d24bB2aad813fE6F49b798F44cCe4c48Bd478",
+    "type": "KRC-20",
+    "name": "Fado Go",
+    "symbol": "FADO",
+    "decimals": 18,
+    "description": "FADO Go Utility Token",
+    "website": "https://token.fadogo.io/",
+    "github": "",
+    "telegram": "https://t.me/fado_go",
+    "medium": "",
+    "twitter": "https://twitter.com/fado_go",
+    "facebook": ""
+}
