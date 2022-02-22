@@ -1,0 +1,11 @@
+{
+	"contract": "0xB5e22C047ec2f93E73469Ed790B3aB15ce51F45A",
+	"type": "KRC-20",
+	"name": "Token GEM",
+	"symbol": "GEM",
+	"decimals": 18,
+	"website": "https://kriptobattle.com",
+	"telegram": "https://t.me/kriptogalaxybattle",
+	"twitter": "https://twitter.com/KriptoBattle",
+    "discord": "https://discord.com/invite/Wfj68FGw6u"
+}

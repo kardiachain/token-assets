@@ -1,0 +1,11 @@
+{
+	"contract": "0xb697231730C004110A86f51BfF4B8DD085c0CB28",
+	"type": "KRC-20",
+	"name": "sleepearn.finance",
+	"symbol": "SEN",
+	"decimals": 18,
+	"website": "https://sleepearn.finance",
+	"telegram": "https://t.me/sleepearn",
+	"twitter": "https://twitter.com/sleepearn",
+	"github": "https://github.com/sleepearn"
+}
