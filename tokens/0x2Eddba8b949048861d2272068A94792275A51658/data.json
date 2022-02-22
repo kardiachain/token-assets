@@ -1,0 +1,11 @@
+{
+	"contract": "0x2Eddba8b949048861d2272068A94792275A51658",
+	"type": "KRC-20",
+	"name": "BecoSwap",
+	"symbol": "BECO",
+	"decimals": 18,
+	"website": "https://becoswap.com/",
+	"telegram": "https://t.me/beco_swap",
+	"twitter": "https://twitter.com/beco_swap",
+	"github": "https://github.com/becoswap"
+}

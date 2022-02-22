@@ -1,0 +1,12 @@
+{
+	"contract": "0x5C5058de24497359Ff64F7318f5C2b5581FF6B05",
+	"type": "KRC-20",
+	"name": "Token Kripto Galaxy Battle",
+	"symbol": "KABA",
+	"decimals": 18,
+	"description": "",
+	"website": "https://kriptobattle.com",
+	"telegram": "https://t.me/kriptogalaxybattle",
+	"twitter": "https://twitter.com/KriptoBattle",
+    "discord": "https://discord.com/invite/Wfj68FGw6u"
+}
