@@ -1,0 +1,11 @@
+{
+	"contract": "0xc8E2747916BeDcf91C17AB13F2E14E67f6aBe0Db",
+	"type": "KRC-20",
+	"name": "ArkRivals",
+	"symbol": "ARKN",
+	"decimals": 18,
+	"website": "https://arkrivals.com/",
+	"telegram": "https://t.me/ArkRivals_Official",
+	"twitter": "https://twitter.com/Ark_Rivals",
+	"github": "https://github.com/arkrivals"
+}
