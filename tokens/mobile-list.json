@@ -1,0 +1,499 @@
+[
+  {
+    "name": "BecoSwap Token",
+    "address": "0x2Eddba8b949048861d2272068A94792275A51658",
+    "info": "BECO is decentralized tokens that to grow up other products in ecosystem where users can trade, yield farm on KardiaChain.",
+    "tokenSymbol": "BECO",
+    "totalSupply": "84234171490737159657152396",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/2Eddba8b949048861d2272068A94792275A51658.png"
+  },
+  {
+    "name": "Wrapped KAI",
+    "address": "0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d",
+    "info": "Wrapped KAI (WKAI) is a token that represents KAI 1:1 and conforms to the KRC20 token format. WKAI KRC20 increases the token's functionality, including but not limited to dApps on KardiaChain ecosystem. DApps might require users to convert KAI to WKAI and you can unwrap your WKAI to KAI 1:1 at any time.",
+    "tokenSymbol": "WKAI",
+    "totalSupply": "521234575541798304494079950",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
+  },
+  {
+    "name": "KUSD-T",
+    "address": "0x92364Ec610eFa050D296f1EEB131f2139FB8810e",
+    "tokenSymbol": "KUSD-T",
+    "totalSupply": "10000000000000",
+    "decimal": 6,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/cc6f1ef0dd2233dc4014c5a56e50dc938a9f9a74.png"
+  },
+  {
+    "name": "ArkRivals",
+    "address": "0xc8E2747916BeDcf91C17AB13F2E14E67f6aBe0Db",
+    "tokenSymbol": "ARKN",
+    "totalSupply": "1000000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3.ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c8E2747916BeDcf91C17AB13F2E14E67f6aBe0Db.png"
+  },
+  {
+    "name": "BossDoge",
+    "address": "0x5995F16246DfA676A44B8bD7E751C1226093dcd7",
+    "info": "BossDoge has learned a few tricks and lessons from his meme father, Dogecoin. A big fan by members of the Doge Coin online community. BossDoge seeks to impress his father by showing his new improved transaction speeds \u0026 adorableness. He is Hyper-deflationary with an integrated smart staking system built in to reward you, so more BossDoge coins are being automatically added to your wallet each transaction. Simply Love, pet, and watch your BossDoge grow.",
+    "tokenSymbol": "BossDoge",
+    "totalSupply": "100000000000000000000000000",
+    "decimal": 9,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/65076cfb9adce82d96a7e95fa549b99bb245a4b8.png"
+  },
+  {
+    "name": "Fado Go",
+    "address": "0x827d24bB2aad813fE6F49b798F44cCe4c48Bd478",
+    "tokenSymbol": "FADO",
+    "totalSupply": "58750000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/827d24bB2aad813fE6F49b798F44cCe4c48Bd478.png"
+  },
+  {
+    "name": "DKAI",
+    "address": "0xef8F1Cb4E28EBe9649a3A1B1473274B00C068184",
+    "info": "KardiaChain Diamond Hands Program",
+    "tokenSymbol": "DKAI",
+    "totalSupply": "1000000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ef8F1Cb4E28EBe9649a3A1B1473274B00C068184.png"
+  },
+  {
+    "name": "Big Digital Shares",
+    "address": "0x72b7181bd4a0B67Ca7dF2c7778D8f70455DC735b",
+    "info": "BDS is a utility token that revolves around the BDS real estate ecosystem. BDS connects project owners \u0026 investors as well as brokers, allowing low-capital real estate investments, supporting crowdfunding and ensuring brokers’ benefits by integrating the security \u0026 transparency of blockchain. https://bigbds.io/en/",
+    "tokenSymbol": "BDS",
+    "totalSupply": "100000000000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/7bb06c6ef5a2737dc4fd7dfb60ea71bf97096bdb.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b",
+    "info": "KRC20 pegged version of USDT Token",
+    "tokenSymbol": "USDT",
+    "totalSupply": "1983197087420",
+    "decimal": 6,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b.png"
+  },
+  {
+    "name": "DefilyToken",
+    "address": "0xD675fF2B0ff139E14F86D87b7a6049ca7C66d76e",
+    "tokenSymbol": "DFL",
+    "totalSupply": "210000100000000000010000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/D675fF2B0ff139E14F86D87b7a6049ca7C66d76e.png"
+  },
+  {
+    "name": "Lucky Property Development Invest Token",
+    "address": "0x32a6bD9800276be19050bd97459A7a36B26bD899",
+    "tokenSymbol": "LPDi",
+    "totalSupply": "200000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/32a6bD9800276be19050bd97459A7a36B26bD899.png"
+  },
+  {
+    "name": "UDA",
+    "address": "0xD1bCC0E0707d28bef3D6c3eA356EC8D837BaDB57",
+    "tokenSymbol": "UDA",
+    "totalSupply": "999999999",
+    "decimal": 0,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/D1bCC0E0707d28bef3D6c3eA356EC8D837BaDB57.png"
+  },
+  {
+    "name": "Thetan Gem",
+    "address": "0xF0051fd4758147F1749D1696C9266d047B4c43Fa",
+    "tokenSymbol": "THG",
+    "totalSupply": "420000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/F0051fd4758147F1749D1696C9266d047B4c43Fa.png"
+  },
+  {
+    "name": "My DeFi Pet Token",
+    "address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+    "tokenSymbol": "DPET",
+    "totalSupply": "4220210270000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/edc8284279cb6efa3953a9a0806653d7b3717d52.png"
+  },
+  {
+    "name": "LTD",
+    "address": "0xf631BdC21A77AFAc69B9B3e966E85d7fBcf00b1f",
+    "info": "LiveTrade Token (LTD) is the decentralized unit of account reflecting the value of LiveTrade's platform.\n\nLTD tokens will be utilized in LiveTrade’s three core products and services including DIPO (Digital Initial Private Offering), Digital Asset Banking, and the LiveTrade App, from serving as the main base for transactions and conversions, growing user base, accessing various premium features, to incentivizing community sharing and value creation through a dynamic reward system.\n\nThe token and its associated structures aim to create an unending cycle that will continue to support the growth of the LiveTrade platform and benefits of our token holders.",
+    "tokenSymbol": "LTD Token",
+    "totalSupply": "20000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/4df651321b566bab4483d5f7613fec9553cb895d.png"
+  },
+  {
+    "name": "OdinDAO",
+    "address": "0x22b3e7dB80c0Be427eBf0ADE0e66CF5b1Afe1285",
+    "tokenSymbol": "ODIN",
+    "totalSupply": "999999999000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/22b3e7dB80c0Be427eBf0ADE0e66CF5b1Afe1285.png"
+  },
+  {
+    "name": "DeHR",
+    "address": "0x9fEf6766ecf9e105b2753f7f8968Dc8293A69460",
+    "tokenSymbol": "DHR",
+    "totalSupply": "51099333000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/9fEf6766ecf9e105b2753f7f8968Dc8293A69460.png"
+  },
+  {
+    "name": "VNDT",
+    "address": "0xCc0595e6a76da207CCaDf8DC7cF548Af0fF8E22b",
+    "info": "VNDT Stablecoin  \"VNDT is a stable token, based on smart contracts. The financial market requires an exchange method that has stable prices. The financial protocol which is used by Wepay that allows stable tokens are supported by FIAT and bring price stability for your digital assets.\n\nThe symbol of the VNDT token is VNDT which is a notification code built on ERC-20, TRC-20, BEP-20 and KRC-20. VNDT is a token that has price stability and will be used in e-commerce transactions, loans, and investments in the ecosystem that Wepay and partners build.\"\n\nWebsite: https://vndt.com",
+    "tokenSymbol": "VNDT",
+    "totalSupply": "100000000000000000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/Cc0595e6a76da207CCaDf8DC7cF548Af0fF8E22b.png"
+  },
+  {
+    "name": "Ether",
+    "address": "0x1540020a94aA8bc189aA97639Da213a4ca49d9a7",
+    "info": "KRC20 pegged version of ETH Token",
+    "tokenSymbol": "ETH",
+    "totalSupply": "47240364111799154243",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/1540020a94aA8bc189aA97639Da213a4ca49d9a7.png"
+  },
+  {
+    "name": "WolfSafePoorPeople",
+    "address": "0xccB32737C6dFfddFFB24CA8A96b588ac7b1822e7",
+    "tokenSymbol": "WSPP",
+    "totalSupply": "3200000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ccB32737C6dFfddFFB24CA8A96b588ac7b1822e7.png"
+  },
+  {
+    "name": "BNB",
+    "address": "0xd7D045BFBa6Ea93b480F409DB3dd1729337C1d13",
+    "info": "KRC20 pegged version of BNB Token",
+    "tokenSymbol": "BNB",
+    "totalSupply": "37494469630908953641",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d7D045BFBa6Ea93b480F409DB3dd1729337C1d13.png"
+  },
+  {
+    "name": "GEM",
+    "address": "0xB5e22C047ec2f93E73469Ed790B3aB15ce51F45A",
+    "tokenSymbol": "GEM",
+    "totalSupply": "2068449438535862216559147",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/B5e22C047ec2f93E73469Ed790B3aB15ce51F45A.png",
+    "status": 3,
+    "isVerified": false
+  },
+  {
+    "name": "DRAGON",
+    "address": "0x18f4f7A1fa6F2c93d40d4Fd83c67E93B88d3a0b1",
+    "tokenSymbol": "DRAGON",
+    "totalSupply": "43875940251028195653520705",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6f26989c87ebcbaaec5ca25faaa3cfc6ca45a570.png"
+  },
+  {
+    "name": "HeroesTD",
+    "address": "0xe58eA819A98c87ab1A763133a234C3954BB15901",
+    "tokenSymbol": "HTD",
+    "totalSupply": "468000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/e58eA819A98c87ab1A763133a234C3954BB15901.png"
+  },
+  {
+    "name": "REAL REALM",
+    "address": "0x10c2ED4Dcb8e81a5CE45d985f907364e1bC3e4e1",
+    "tokenSymbol": "REAL",
+    "totalSupply": "1000000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/10c2ED4Dcb8e81a5CE45d985f907364e1bC3e4e1.png"
+  },
+  {
+    "name": "DareNFT",
+    "address": "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b",
+    "tokenSymbol": "DNFT",
+    "totalSupply": "639000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png"
+  },
+  {
+    "name": "Mytheria",
+    "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+    "tokenSymbol": "MYRA",
+    "totalSupply": "200000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6ef238E9E8CD2A96740897761C18894Fc086B9d0.png"
+  },
+  {
+    "name": "COGI Coin",
+    "address": "0x32063CD7E2dB807f0361235C01c10b4f8fE64f8e",
+    "info": "9D NFT is the first 3D Martial Art/Fantasy NFT Game in the SEA, built on the Ethereum blockchain platform. With the goal of creating a product with the highest quality possible that is both satisfying \"Play to Fun\" aspect an providing the opportunity to \"Play to Earn\", 9D NFT is our sincerest commitment that our team hop to bring to gamers around the world.",
+    "tokenSymbol": "COGI",
+    "totalSupply": "680000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/32063CD7E2dB807f0361235C01c10b4f8fE64f8e.png"
+  },
+  {
+    "name": "BUSD",
+    "address": "0x3444273AFdf9E00Fd0491C8a97738acA3ebB2A93",
+    "info": "KRC20 pegged version of BUSD Token",
+    "tokenSymbol": "BUSD",
+    "totalSupply": "72719026497650791852429",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/3444273AFdf9E00Fd0491C8a97738acA3ebB2A93.png"
+  },
+  {
+    "name": "HanaGold Token",
+    "address": "0x148De93957ED77f8D5546323b1EdA0Bf06eB52f3",
+    "info": "HanaGold Token is a token issued by HanaGold Jewelry Joint Stock Company. When owning HNG, investors will enjoy a lot of benefits from HanaGold's product and service policy including priority on care, preferential policies for VIP members, reduced jewelry processing fees, receiving commissions for distribution products, preferential rates for opening franchised showrooms... HNG's mission is to be a bridge for domestic and international investors to have the opportunity to invest in the jewelry industry in Vietnam, overcome difficulties of traditional business and make breakthroughs with 4.0 technology.",
+    "tokenSymbol": "HNG",
+    "totalSupply": "30000000000000",
+    "decimal": 6,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/148De93957ED77f8D5546323b1EdA0Bf06eB52f3.png"
+  },
+  {
+    "name": "Chat Token",
+    "address": "0x274064d87952e4782150396153b50b1ab3a81Ca2",
+    "info": "Connect seamlessly with influencers without limit and earn CHAT token.\nhttps://chattoken.net/",
+    "tokenSymbol": "CHAT",
+    "totalSupply": "1000000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/274064d87952e4782150396153b50b1ab3a81Ca2.png"
+  },
+  {
+    "name": "FAM Token",
+    "address": "0x7664e4bF5611352088dc3a58e4bCe2C92BADf43C",
+    "tokenSymbol": "FAM",
+    "totalSupply": "5000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/7664e4bF5611352088dc3a58e4bCe2C92BADf43C.png",
+    "status": 3,
+    "isVerified": false
+  },
+  {
+    "name": "Info Token",
+    "address": "0x5FFD7a138422cBbcfB53908AD51F656D7C6c640F",
+    "tokenSymbol": "INFO",
+    "totalSupply": "880000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/5FFD7a138422cBbcfB53908AD51F656D7C6c640F.png"
+  },
+  {
+    "name": "Iron Sail KEEY",
+    "address": "0xFb2374D19b19E7d91C82B02EE09A913a1Fdb3Dc6",
+    "tokenSymbol": "KEEY",
+    "totalSupply": "100",
+    "decimal": 0,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/Fb2374D19b19E7d91C82B02EE09A913a1Fdb3Dc6.png"
+  },
+  {
+    "name": "Moniwar",
+    "address": "0xff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa",
+    "info": "The MOWA token is issued based on the KardiaChain, which is completely decentralized. Moni token represents the common currency of the gaming economy.",
+    "tokenSymbol": "MOWA",
+    "totalSupply": "300000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa.png"
+  },
+  {
+    "name": "GetDone Token",
+    "address": "0x865Fa6A9DeE299De618A06729DC9e5f7d02055E3",
+    "tokenSymbol": "GDT",
+    "totalSupply": "1000000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/865Fa6A9DeE299De618A06729DC9e5f7d02055E3.png"
+  },
+  {
+    "name": "KShark",
+    "address": "0x7221B169aD5e8415753ebbC583924519AFc96B26",
+    "info": "KShark is a platform that integrates NFT games and decentralized yield farm applications. Joining KShark, you will not only entertain, but also have the opportunity to generate a lot of profit. KShark Game which is a Role-playing games to earn NFT and enrich.",
+    "tokenSymbol": "KSC",
+    "totalSupply": "100000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/7221B169aD5e8415753ebbC583924519AFc96B26.png"
+  },
+  {
+    "name": "RICE",
+    "address": "0xff40318cdA551BF168c7cC8B9DC004FaA07345AC",
+    "info": "Rice Wallet is a non-custodial wallet that helps you store, invest and manage cryptocurrencies from one place with the best user experience.",
+    "tokenSymbol": "RICE",
+    "totalSupply": "50000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff40318cdA551BF168c7cC8B9DC004FaA07345AC.png",
+    "status": 3,
+    "isVerified": false
+  },
+  {
+    "name": "LaunchZone",
+    "address": "0x15E3B9B83BB14cE4beDc87bDAdc107Da7d25Be11",
+    "tokenSymbol": "LZ",
+    "totalSupply": "50000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/15E3B9B83BB14cE4beDc87bDAdc107Da7d25Be11.png"
+  },
+  {
+    "name": "ONUS",
+    "address": "0x981FB6159Ae351b7378d0d510930813DE281fCB5",
+    "tokenSymbol": "ONUS",
+    "totalSupply": "19684490000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/981FB6159Ae351b7378d0d510930813DE281fCB5.png"
+  },
+  {
+    "name": "Kripto Galaxy Battle",
+    "address": "0x5C5058de24497359Ff64F7318f5C2b5581FF6B05",
+    "tokenSymbol": "KABA",
+    "totalSupply": "5000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/5C5058de24497359Ff64F7318f5C2b5581FF6B05.png"
+  },
+  {
+    "name": "Satoshi",
+    "address": "0xa0808D4867A6dA3f9b617d513e1dEb7af68B8F6D",
+    "info": "Satoshi (SAT) is the smallest unit of Bitcoin, equivalent to 100 millionth of a bitcoin.,( i.e. 1 Satoshi = 0.00000001 BTC). SAT is used within Bitback e wallet, an application allows users to receive rewards when making purchasement (billing, shopping services).",
+    "tokenSymbol": "SATOSHI",
+    "totalSupply": "100000000000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/a0808D4867A6dA3f9b617d513e1dEb7af68B8F6D.png"
+  },
+  {
+    "name": "BamiToken",
+    "address": "0xC0884cCE945fCf7F3AE4471B5A16d83065D35c31",
+    "info": "Bami has been migrated to new Token Contract\nVisit https://kai.bami.money/#/migration to migrate your old BAMI to new BAMI",
+    "tokenSymbol": "BAMI",
+    "totalSupply": "20000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/C0884cCE945fCf7F3AE4471B5A16d83065D35c31.png"
+  },
+  {
+    "name": "Wrapped AADA",
+    "address": "0x452c651DF673fFA9F4017Cb57Ec1FFd8762B2C8b",
+    "info": "Site: https://aada.finance/\nDescription: The first lending protocol power by Cadano\nWhite paper: https://aada.finance/whitepaper/aada_white_paper_V1.1.pdf",
+    "tokenSymbol": "wAADA",
+    "totalSupply": "99999999000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/452c651DF673fFA9F4017Cb57Ec1FFd8762B2C8b.png"
+  },
+  {
+    "name": "sleepearn.finance",
+    "address": "0xb697231730C004110A86f51BfF4B8DD085c0CB28",
+    "tokenSymbol": "SEN",
+    "totalSupply": "1000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/b697231730C004110A86f51BfF4B8DD085c0CB28.png"
+  },
+  {
+    "name": "Kephi Token",
+    "address": "0x6CD689DefCA80f9F2CBED9D0C6f3B2Cf4abc4598",
+    "info": "Kephi Gallery is a marketplace where artists from different disciplines can get together and share (and monetize!) their work. From visual arts, to music, from movie clips to even theatre, every artist is welcome to mint their NFT and start trading their pieces of art.",
+    "tokenSymbol": "KPHI",
+    "totalSupply": "50000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d9aa394a71ca66bdd61061b54630f82619dbb950.png"
+  },
+  {
+    "name": "100MAN",
+    "address": "0x0acfaa0d0ccA295672E09ad906240C03D54F286a",
+    "tokenSymbol": "MAN",
+    "totalSupply": "4480000000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/861925fee53a3c8fa3a49bcc2a286c54560a2c8f.png"
+  },
+  {
+    "name": "Trustpay Token",
+    "address": "0xc1c319434bd861A335752b4b6993C13f139B26fa",
+    "tokenSymbol": "TPH",
+    "totalSupply": "3000000000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/2cb25dd27b1f7733d4f33e855c281634e0174a98.png"
+  },
+  {
+    "name": "Vietnam Gold Token",
+    "address": "0xf8bB30c912a46f57F2B499111cb536dB13A044c3",
+    "info": "CHI is defined as a technological gold blockchain application and is developed based on the KRC20 standard KardiaChain platform. CHI pegged to gold by convention 1 CHI is equivalent to 1 CHỈ (1 mace) - the most commonly traded quantification of physical gold. CHI is tokenized with the real asset of gold, making it easy for CHI holders to exchange at a very low cost.",
+    "tokenSymbol": "CHI",
+    "totalSupply": "10000000",
+    "decimal": 3,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/f8bB30c912a46f57F2B499111cb536dB13A044c3.png"
+  },
+  {
+    "name": "LGBT Token",
+    "address": "0x28bA261e7AbD7E00937f7b5862c7097378eb9369",
+    "info": "The LGBT community is group of individuals united by a common culture and lifestyle. It is a community driven by acceptance and a freedom to celebrate their diversity, individuality, and sexuality.",
+    "tokenSymbol": "LGBT",
+    "totalSupply": "1000000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/219fa73102e05f6cb8a2dfe110062a0c8d9738e3.png"
+  },
+  {
+    "name": "MOONKA Token",
+    "address": "0xbFb1398F4755E861620d25A1Df6Bb8ff25252377",
+    "tokenSymbol": "MKA",
+    "totalSupply": "100000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c6d8f449b89c5a54a79898c54ad1d33f7928016b.png"
+  },
+  {
+    "name": "GO24",
+    "address": "0xbE8752b4141bBA97A1659D7f27FF9f8b8B492692",
+    "info": "GO24 is an asset developed by Go24 ATS JSC. Visit us: https://go24.vn",
+    "tokenSymbol": "Go24",
+    "totalSupply": "10000000000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d570e228e0af1d3c8d3196496e14845d93ee9a48.png"
+  },
+  {
+    "name": "SHC",
+    "address": "0x7c3c1eb131f0d0051c46D035F42900905752238C",
+    "info": "Fastfood 4.0",
+    "tokenSymbol": "SHC",
+    "totalSupply": "20000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0485c5b03ec228603b604c57d2203fe69500cf26.webp"
+  },
+  {
+    "name": "Nami Corporation",
+    "address": "0xA43B455F935A7f4184B5B8Aa345e22DbA3bBb286",
+    "info": "NAMI is a cryptocurrency that can operate throughout the Nami ecosystem - used for exchanging, fee deduction and staking rewards. Visit us at https://nami.io/.",
+    "tokenSymbol": "NAMI",
+    "totalSupply": "10000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c225836037b1f6526dc76590078dfcf8dee56d23.webp"
+  },
+  {
+    "name": "VNDC International Digital Banking",
+    "address": "0x75b9d2A0007A6866e32Ac0A976FeF60ccA151f87",
+    "tokenSymbol": "VIDB",
+    "totalSupply": "10000000000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/dca0334f63dc677d896e3b657bf95a519e47e3a8.png"
+  },
+  {
+    "name": "WhiteHub",
+    "address": "0xC40926e9f3935D00629d26D025c84384F79f3842",
+    "tokenSymbol": "WHC",
+    "totalSupply": "2000000000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/8a033ecb623dee4cadcde3f65fb0565c3cac64a8.webp"
+  },
+  {
+    "name": "VNC Fund Certificate",
+    "address": "0x43F4e604f9bc55B3d13C8e8525CD3F48fc01CBc7",
+    "tokenSymbol": "VNCT",
+    "totalSupply": "150900000000000",
+    "decimal": 8,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/f1a776c51713b1bf8327f86f5da83f4d4633f405.webp"
+  },
+  {
+    "name": "VNDC",
+    "address": "0xeFF34B63f55200a9D635B8ABBBFCC719b4977864",
+    "info": "VNDC is a stable coin developed by VNDC Alliance and is created for Vietnamese Trader community only. Visit us at https://vndc.io/.",
+    "tokenSymbol": "VNDC",
+    "totalSupply": "235000000000",
+    "decimal": 0,
+    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ed78d62abe4025ddf182d42cb9917d353964a710.webp"
+  }
+]

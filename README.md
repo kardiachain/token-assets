@@ -4,7 +4,7 @@ All the unverified tokens will be marked as "unverified token". The verified tok
 
 ## Prerequisites
 1. The token contract source code **must be verified** on the KardiaChain Explorer.
-2. Folk this Github repository.
+2. Fork this Github repository.
 3. Create a folder inside **token** folder with the name of Token Contract Address as checksum format
 `token/<token_address_checksum>`
 Example: `token/0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d`
@@ -30,7 +30,6 @@ The data file contains information about the project, for example:
 	"facebook": ""
 }
 ```
-
 	(Required) contract: the token contract address in checksum format
 	(Required) type: token format (KRC-20, KRC-721, KRC-1155)
 	(Required) name: name of token must match the deployed token's name
@@ -41,6 +40,17 @@ The data file contains information about the project, for example:
 	(Required) github: source code of the project
 	(Optional) telegram, medium, twitter, facebook: social links
 
+6. Add token info to the **mobile-list.json** file with the following fields:
+```
+	{
+    "name": "TOKEN_NAME",
+    "address": "TOKEN_CHECKSUM_ADDRESS",
+    "tokenSymbol": "TOKEN_SYMBOL",
+    "totalSupply": "TOKEN_TOTAL_SUPPLY",
+    "decimal": TOKEN_DECIMALS,
+    "logo": "https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/TOKEN_CHECKSUM_ADDRESS/logo.png"
+  }
+```
 7. Create a pull request to the **master** repository and wait for the verification process.
 8. The fee for the verification is **500 KAI** (dynamic, change over time).
 After your pull request meets the requirements, send the payment from **token's owner address** to the following address on KardiaChain Aris Mainnet **0xE8A5B3C80551E48c5a527a473FbbaCceF858Bbdb** and provide the transaction hash.
