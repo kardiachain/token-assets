@@ -495,5 +495,13 @@
     "totalSupply": "235000000000",
     "decimal": 0,
     "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ed78d62abe4025ddf182d42cb9917d353964a710.webp"
+  },
+  {
+    "name": "SmoothCoin",
+    "address": "0x0A9a7eC9aE21D576007Ea6d407f72144F947f523",
+    "tokenSymbol": "SMOOTH",
+    "totalSupply": "69420",
+    "decimal": 18,
+    "logo": "https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/0x0A9a7eC9aE21D576007Ea6d407f72144F947f523/logo.png"
   }
 ]

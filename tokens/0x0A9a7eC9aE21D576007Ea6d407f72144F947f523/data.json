@@ -1,0 +1,8 @@
+{
+	"contract": "0x0A9a7eC9aE21D576007Ea6d407f72144F947f523",
+	"type": "KRC-20",
+	"name": "SmoothCoin",
+	"symbol": "SMOOTH",
+	"description": "When Hugh MacKinnon goes out, he is very smooth. This token represents his smoothness 1:1",
+	"decimals": 18
+}
