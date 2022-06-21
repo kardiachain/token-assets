@@ -1,5 +1,14 @@
 [
   {
+    "name": "Rafflable",
+    "address": "0x882110feCB7a11b17F3b0eA98ACfD10F6C2dde27",
+    "info": "Rafflable (RAFF) is a currency used to buy tickets and win prizes in raffles built with NFT as a ticket.",
+    "tokenSymbol": "RAFF",
+    "totalSupply": "100000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/0x882110feCB7a11b17F3b0eA98ACfD10F6C2dde27/logo.png"
+  },
+  {
     "name": "BecoSwap Token",
     "address": "0x2Eddba8b949048861d2272068A94792275A51658",
     "info": "BECO is decentralized tokens that to grow up other products in ecosystem where users can trade, yield farm on KardiaChain.",

@@ -1,0 +1,14 @@
+{
+    "contract": "0x882110feCB7a11b17F3b0eA98ACfD10F6C2dde27",
+    "type": "KRC-20",
+    "name": "Rafflable",
+    "symbol": "RAFF",
+    "decimals": 18,
+    "description": "Rafflable (RAFF) is a currency used to buy tickets and win prizes in raffles built with NFT as a ticket.",
+    "website": "https://rafflable.io",
+    "github": "https://github.com/rafflable",
+    "telegram": "https://t.me/rafflableofficial",
+    "medium": "https://medium.com/@rafflable",
+    "twitter": "https://twitter.com/rafflable",
+    "facebook": ""
+}
