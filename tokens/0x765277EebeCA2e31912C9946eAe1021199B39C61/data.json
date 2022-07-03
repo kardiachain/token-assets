@@ -1,0 +1,14 @@
+{
+    "contract": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "type": "KRC-20",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+    "website": "https://www.circle.com/en/usdc",
+    "github": "",
+    "telegram": "",
+    "medium": "",
+    "twitter": "",
+    "facebook": ""
+}
