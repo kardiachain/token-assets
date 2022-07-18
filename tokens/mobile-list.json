@@ -495,5 +495,14 @@
     "totalSupply": "235000000000",
     "decimal": 0,
     "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ed78d62abe4025ddf182d42cb9917d353964a710.webp"
+  },  
+  {
+    "name": "USD Coin",
+    "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "info": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+    "tokenSymbol": "USDC",
+    "totalSupply": "",
+    "decimal": 6,
+    "logo": "https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
   }
 ]
