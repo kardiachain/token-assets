@@ -1,0 +1,14 @@
+{
+    "contract": "0xE9caC5d99375d02Fb506bE890011B2F57fC614E1",
+    "type": "KRC-20",
+    "name": "KAIDEX Token",
+    "symbol": "KDX",
+    "decimals": 18,
+    "description": "One-stop-shop DeFi Platform scaling KardiaChain Ecosystem",
+    "website": "https://kaidex.io",
+    "github": "https://github.com/kardia-solutions",
+    "telegram": "https://t.me/kdx_official",
+    "medium": "https://medium.com/@KAIDEX",
+    "twitter": "https://twitter.com/KAI_DEX",
+    "facebook": ""
+}
