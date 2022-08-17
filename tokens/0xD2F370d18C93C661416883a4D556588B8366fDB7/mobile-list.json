@@ -1,0 +1,8 @@
+{
+    "name": "Ameta Token",
+    "address": "0xD2F370d18C93C661416883a4D556588B8366fDB7",
+    "tokenSymbol": "APLUS",
+    "totalSupply": "1000000000",
+    "decimal": 18,
+    "logo": "https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/0xD2F370d18C93C661416883a4D556588B8366fDB7/logo.png"
+}
