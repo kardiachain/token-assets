@@ -18,6 +18,14 @@
     "logo": "https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/0xE9caC5d99375d02Fb506bE890011B2F57fC614E1/logo.png"
   },
   {
+    "name": "Aboat Token",
+    "address": "0x186B1B6CE63932a34FAa8D08bB11B775591Fd6f4",
+    "tokenSymbol": "ABOAT",
+    "totalSupply": "1000000000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/0x186B1B6CE63932a34FAa8D08bB11B775591Fd6f4/logo.png"
+  },
+  {
     "name": "BecoSwap Token",
     "address": "0x2Eddba8b949048861d2272068A94792275A51658",
     "info": "BECO is decentralized tokens that to grow up other products in ecosystem where users can trade, yield farm on KardiaChain.",
