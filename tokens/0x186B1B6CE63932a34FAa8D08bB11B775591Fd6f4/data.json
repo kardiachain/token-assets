@@ -1,0 +1,14 @@
+{
+	"contract": "0x186B1B6CE63932a34FAa8D08bB11B775591Fd6f4",
+	"type": "KRC-20",
+	"name": "Aboat Token",
+	"symbol": "ABOAT",
+	"decimals": 18,
+	"description": "Aboat Token fuels the Aboat Entertainment Ecosystem. It's main usage is for the staking based subscription model, reward system and nft marketplace. In future it will also fuel the ingame ecosystem of Aboat Entertainment.",
+	"website": "https://aboat-entertainment.com",
+	"github": "https://github.com/Talkaboat",
+	"telegram": "https://t.me/aboat_ann",
+	"medium": "https://medium.com/aboat-entertainment",
+	"twitter": "https://twitter.com/talkaboat",
+	"facebook": ""
+}
