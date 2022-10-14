@@ -1,5 +1,14 @@
 [
   {
+    "name": "Shopdi Token",
+    "address": "0xA6D662dDB759F2A3C4240bca2e1cc86D383F9E71",
+    "info": "SHOD token is Shopdi's official token, bridged 1:1 from BSC. SHOD tokens, being introduced into the business model, are expected to be our exceptional selling proposition to e-commerce and crypto users. The addition of SHOD tokens provides more benefits and enhances user engagement on top of our existing strengths. SHOD tokens can be open to Hidden Price and services. This will especially facilitate cross-border, B2B, and even P2P transactions.",
+    "tokenSymbol": "SHOD",
+    "totalSupply": "500000000000000000000000000",
+    "decimal": 18,
+    "logo": "https://raw.githubusercontent.com/kardiachain/token-assets/master/tokens/0xA6D662dDB759F2A3C4240bca2e1cc86D383F9E71/logo.png"
+  },
+  {
     "name": "Rafflable",
     "address": "0x882110feCB7a11b17F3b0eA98ACfD10F6C2dde27",
     "info": "Rafflable (RAFF) is a currency used to buy tickets and win prizes in raffles built with NFT as a ticket.",

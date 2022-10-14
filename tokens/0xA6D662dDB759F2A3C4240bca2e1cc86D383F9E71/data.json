@@ -1,0 +1,14 @@
+{
+    "contract": "0xA6D662dDB759F2A3C4240bca2e1cc86D383F9E71",
+    "type": "KRC-20",
+    "name": "Shopdi Token",
+    "symbol": "SHOD",
+    "decimals": 18,
+    "description": "SHOD token is Shopdi's official token, bridged 1:1 from BSC. SHOD tokens, being introduced into the business model, are expected to be our exceptional selling proposition to e-commerce and crypto users. The addition of SHOD tokens provides more benefits and enhances user engagement on top of our existing strengths. SHOD tokens can be open to Hidden Price and services. This will especially facilitate cross-border, B2B, and even P2P transactions.",
+    "website": "https://shopdi.io",
+    "github": "",
+    "telegram": "https://t.me/ShopdiOfficial",
+    "medium": "https://shopdi.medium.com",
+    "twitter": "https://twitter.com/shopdi_official",
+    "facebook": "https://www.facebook.com/shopdi.io"
+}
