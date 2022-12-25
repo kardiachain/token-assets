@@ -514,6 +514,15 @@
     "decimal": 8,
     "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/8a033ecb623dee4cadcde3f65fb0565c3cac64a8.webp"
   },
+
+  {
+    "name": "NFT FANS",
+    "address": "0x20FafC5AC55bdc36ccb0c87746686BEB09E7851B",
+    "tokenSymbol": "NFT FAN",
+    "totalSupply": "50000000000",
+    "decimal": 18,
+    "logo": "https://raw.githubusercontent.com/nftfan/kainftfan/main/logo.png"
+  },
   {
     "name": "VNC Fund Certificate",
     "address": "0x43F4e604f9bc55B3d13C8e8525CD3F48fc01CBc7",
