@@ -1,0 +1,14 @@
+{
+    "contract": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+    "type": "KRC-20",
+    "name": "My DeFi Pet",
+    "symbol": "DPET",
+    "decimals": 18,
+    "description": "My Defi Pet",
+    "website": "https://mydefipet.com/",
+    "github": "",
+    "telegram": "",
+    "medium": "",
+    "twitter": "",
+    "facebook": ""
+}
