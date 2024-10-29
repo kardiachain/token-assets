@@ -41,7 +41,7 @@
     "tokenSymbol": "BECO",
     "totalSupply": "84234171490737159657152396",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/2Eddba8b949048861d2272068A94792275A51658.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/2Eddba8b949048861d2272068A94792275A51658.png"
   },
   {
     "name": "Wrapped KAI",
@@ -50,7 +50,7 @@
     "tokenSymbol": "WKAI",
     "totalSupply": "521234575541798304494079950",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
   },
   {
     "name": "KUSD-T",
@@ -58,7 +58,7 @@
     "tokenSymbol": "KUSD-T",
     "totalSupply": "10000000000000",
     "decimal": 6,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/cc6f1ef0dd2233dc4014c5a56e50dc938a9f9a74.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/cc6f1ef0dd2233dc4014c5a56e50dc938a9f9a74.png"
   },
   {
     "name": "ArkRivals",
@@ -66,7 +66,7 @@
     "tokenSymbol": "ARKN",
     "totalSupply": "1000000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3.ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c8E2747916BeDcf91C17AB13F2E14E67f6aBe0Db.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/c8E2747916BeDcf91C17AB13F2E14E67f6aBe0Db.png"
   },
   {
     "name": "BossDoge",
@@ -75,7 +75,7 @@
     "tokenSymbol": "BossDoge",
     "totalSupply": "100000000000000000000000000",
     "decimal": 9,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/65076cfb9adce82d96a7e95fa549b99bb245a4b8.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/65076cfb9adce82d96a7e95fa549b99bb245a4b8.png"
   },
   {
     "name": "Fado Go",
@@ -83,7 +83,7 @@
     "tokenSymbol": "FADO",
     "totalSupply": "58750000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/827d24bB2aad813fE6F49b798F44cCe4c48Bd478.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/827d24bB2aad813fE6F49b798F44cCe4c48Bd478.png"
   },
   {
     "name": "DKAI",
@@ -92,7 +92,7 @@
     "tokenSymbol": "DKAI",
     "totalSupply": "1000000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ef8F1Cb4E28EBe9649a3A1B1473274B00C068184.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/ef8F1Cb4E28EBe9649a3A1B1473274B00C068184.png"
   },
   {
     "name": "Big Digital Shares",
@@ -101,7 +101,7 @@
     "tokenSymbol": "BDS",
     "totalSupply": "100000000000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/7bb06c6ef5a2737dc4fd7dfb60ea71bf97096bdb.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/7bb06c6ef5a2737dc4fd7dfb60ea71bf97096bdb.png"
   },
   {
     "name": "Tether USD",
@@ -110,7 +110,7 @@
     "tokenSymbol": "USDT",
     "totalSupply": "1983197087420",
     "decimal": 6,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b.png"
   },
   {
     "name": "DefilyToken",
@@ -118,7 +118,7 @@
     "tokenSymbol": "DFL",
     "totalSupply": "210000100000000000010000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/D675fF2B0ff139E14F86D87b7a6049ca7C66d76e.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/D675fF2B0ff139E14F86D87b7a6049ca7C66d76e.png"
   },
   {
     "name": "Lucky Property Development Invest Token",
@@ -126,7 +126,7 @@
     "tokenSymbol": "LPDi",
     "totalSupply": "200000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/32a6bD9800276be19050bd97459A7a36B26bD899.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/32a6bD9800276be19050bd97459A7a36B26bD899.png"
   },
   {
     "name": "UDA",
@@ -134,7 +134,7 @@
     "tokenSymbol": "UDA",
     "totalSupply": "999999999",
     "decimal": 0,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/D1bCC0E0707d28bef3D6c3eA356EC8D837BaDB57.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/D1bCC0E0707d28bef3D6c3eA356EC8D837BaDB57.png"
   },
   {
     "name": "Thetan Gem",
@@ -142,7 +142,7 @@
     "tokenSymbol": "THG",
     "totalSupply": "420000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/F0051fd4758147F1749D1696C9266d047B4c43Fa.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/F0051fd4758147F1749D1696C9266d047B4c43Fa.png"
   },
   {
     "name": "My DeFi Pet Token",
@@ -150,7 +150,7 @@
     "tokenSymbol": "DPET",
     "totalSupply": "4220210270000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/edc8284279cb6efa3953a9a0806653d7b3717d52.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/edc8284279cb6efa3953a9a0806653d7b3717d52.png"
   },
   {
     "name": "LTD",
@@ -159,7 +159,7 @@
     "tokenSymbol": "LTD Token",
     "totalSupply": "20000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/4df651321b566bab4483d5f7613fec9553cb895d.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/4df651321b566bab4483d5f7613fec9553cb895d.png"
   },
   {
     "name": "OdinDAO",
@@ -167,7 +167,7 @@
     "tokenSymbol": "ODIN",
     "totalSupply": "999999999000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/22b3e7dB80c0Be427eBf0ADE0e66CF5b1Afe1285.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/22b3e7dB80c0Be427eBf0ADE0e66CF5b1Afe1285.png"
   },
   {
     "name": "DeHR",
@@ -175,7 +175,7 @@
     "tokenSymbol": "DHR",
     "totalSupply": "51099333000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/9fEf6766ecf9e105b2753f7f8968Dc8293A69460.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/9fEf6766ecf9e105b2753f7f8968Dc8293A69460.png"
   },
   {
     "name": "VNDT",
@@ -184,7 +184,7 @@
     "tokenSymbol": "VNDT",
     "totalSupply": "100000000000000000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/Cc0595e6a76da207CCaDf8DC7cF548Af0fF8E22b.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/Cc0595e6a76da207CCaDf8DC7cF548Af0fF8E22b.png"
   },
   {
     "name": "Ether",
@@ -193,7 +193,7 @@
     "tokenSymbol": "ETH",
     "totalSupply": "47240364111799154243",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/1540020a94aA8bc189aA97639Da213a4ca49d9a7.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/1540020a94aA8bc189aA97639Da213a4ca49d9a7.png"
   },
   {
     "name": "WolfSafePoorPeople",
@@ -201,7 +201,7 @@
     "tokenSymbol": "WSPP",
     "totalSupply": "3200000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ccB32737C6dFfddFFB24CA8A96b588ac7b1822e7.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/ccB32737C6dFfddFFB24CA8A96b588ac7b1822e7.png"
   },
   {
     "name": "BNB",
@@ -210,7 +210,7 @@
     "tokenSymbol": "BNB",
     "totalSupply": "37494469630908953641",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d7D045BFBa6Ea93b480F409DB3dd1729337C1d13.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/d7D045BFBa6Ea93b480F409DB3dd1729337C1d13.png"
   },
   {
     "name": "GEM",
@@ -218,7 +218,7 @@
     "tokenSymbol": "GEM",
     "totalSupply": "2068449438535862216559147",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/B5e22C047ec2f93E73469Ed790B3aB15ce51F45A.png",
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/B5e22C047ec2f93E73469Ed790B3aB15ce51F45A.png",
     "status": 3,
     "isVerified": false
   },
@@ -228,7 +228,7 @@
     "tokenSymbol": "DRAGON",
     "totalSupply": "43875940251028195653520705",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6f26989c87ebcbaaec5ca25faaa3cfc6ca45a570.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/6f26989c87ebcbaaec5ca25faaa3cfc6ca45a570.png"
   },
   {
     "name": "HeroesTD",
@@ -236,7 +236,7 @@
     "tokenSymbol": "HTD",
     "totalSupply": "468000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/e58eA819A98c87ab1A763133a234C3954BB15901.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/e58eA819A98c87ab1A763133a234C3954BB15901.png"
   },
   {
     "name": "REAL REALM",
@@ -244,7 +244,7 @@
     "tokenSymbol": "REAL",
     "totalSupply": "1000000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/10c2ED4Dcb8e81a5CE45d985f907364e1bC3e4e1.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/10c2ED4Dcb8e81a5CE45d985f907364e1bC3e4e1.png"
   },
   {
     "name": "DareNFT",
@@ -252,7 +252,7 @@
     "tokenSymbol": "DNFT",
     "totalSupply": "639000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png"
   },
   {
     "name": "Mytheria",
@@ -260,7 +260,7 @@
     "tokenSymbol": "MYRA",
     "totalSupply": "200000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6ef238E9E8CD2A96740897761C18894Fc086B9d0.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/6ef238E9E8CD2A96740897761C18894Fc086B9d0.png"
   },
   {
     "name": "COGI Coin",
@@ -269,7 +269,7 @@
     "tokenSymbol": "COGI",
     "totalSupply": "680000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/32063CD7E2dB807f0361235C01c10b4f8fE64f8e.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/32063CD7E2dB807f0361235C01c10b4f8fE64f8e.png"
   },
   {
     "name": "BUSD",
@@ -278,7 +278,7 @@
     "tokenSymbol": "BUSD",
     "totalSupply": "72719026497650791852429",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/3444273AFdf9E00Fd0491C8a97738acA3ebB2A93.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/3444273AFdf9E00Fd0491C8a97738acA3ebB2A93.png"
   },
   {
     "name": "HanaGold Token",
@@ -287,7 +287,7 @@
     "tokenSymbol": "HNG",
     "totalSupply": "30000000000000",
     "decimal": 6,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/148De93957ED77f8D5546323b1EdA0Bf06eB52f3.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/148De93957ED77f8D5546323b1EdA0Bf06eB52f3.png"
   },
   {
     "name": "Chat Token",
@@ -296,7 +296,7 @@
     "tokenSymbol": "CHAT",
     "totalSupply": "1000000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/274064d87952e4782150396153b50b1ab3a81Ca2.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/274064d87952e4782150396153b50b1ab3a81Ca2.png"
   },
   {
     "name": "FAM Token",
@@ -304,7 +304,7 @@
     "tokenSymbol": "FAM",
     "totalSupply": "5000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/7664e4bF5611352088dc3a58e4bCe2C92BADf43C.png",
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/7664e4bF5611352088dc3a58e4bCe2C92BADf43C.png",
     "status": 3,
     "isVerified": false
   },
@@ -314,7 +314,7 @@
     "tokenSymbol": "INFO",
     "totalSupply": "880000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/5FFD7a138422cBbcfB53908AD51F656D7C6c640F.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/5FFD7a138422cBbcfB53908AD51F656D7C6c640F.png"
   },
   {
     "name": "Iron Sail KEEY",
@@ -322,7 +322,7 @@
     "tokenSymbol": "KEEY",
     "totalSupply": "100",
     "decimal": 0,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/Fb2374D19b19E7d91C82B02EE09A913a1Fdb3Dc6.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/Fb2374D19b19E7d91C82B02EE09A913a1Fdb3Dc6.png"
   },
   {
     "name": "Moniwar",
@@ -331,7 +331,7 @@
     "tokenSymbol": "MOWA",
     "totalSupply": "300000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/ff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa.png"
   },
   {
     "name": "GetDone Token",
@@ -339,7 +339,7 @@
     "tokenSymbol": "GDT",
     "totalSupply": "1000000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/865Fa6A9DeE299De618A06729DC9e5f7d02055E3.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/865Fa6A9DeE299De618A06729DC9e5f7d02055E3.png"
   },
   {
     "name": "KShark",
@@ -348,7 +348,7 @@
     "tokenSymbol": "KSC",
     "totalSupply": "100000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/7221B169aD5e8415753ebbC583924519AFc96B26.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/7221B169aD5e8415753ebbC583924519AFc96B26.png"
   },
   {
     "name": "RICE",
@@ -357,7 +357,7 @@
     "tokenSymbol": "RICE",
     "totalSupply": "50000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff40318cdA551BF168c7cC8B9DC004FaA07345AC.png",
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/ff40318cdA551BF168c7cC8B9DC004FaA07345AC.png",
     "status": 3,
     "isVerified": false
   },
@@ -367,7 +367,7 @@
     "tokenSymbol": "LZ",
     "totalSupply": "50000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/15E3B9B83BB14cE4beDc87bDAdc107Da7d25Be11.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/15E3B9B83BB14cE4beDc87bDAdc107Da7d25Be11.png"
   },
   {
     "name": "ONUS",
@@ -375,7 +375,7 @@
     "tokenSymbol": "ONUS",
     "totalSupply": "19684490000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/981FB6159Ae351b7378d0d510930813DE281fCB5.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/981FB6159Ae351b7378d0d510930813DE281fCB5.png"
   },
   {
     "name": "Kripto Galaxy Battle",
@@ -383,7 +383,7 @@
     "tokenSymbol": "KABA",
     "totalSupply": "5000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/5C5058de24497359Ff64F7318f5C2b5581FF6B05.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/5C5058de24497359Ff64F7318f5C2b5581FF6B05.png"
   },
   {
     "name": "Satoshi",
@@ -392,7 +392,7 @@
     "tokenSymbol": "SATOSHI",
     "totalSupply": "100000000000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/a0808D4867A6dA3f9b617d513e1dEb7af68B8F6D.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/a0808D4867A6dA3f9b617d513e1dEb7af68B8F6D.png"
   },
   {
     "name": "BamiToken",
@@ -401,7 +401,7 @@
     "tokenSymbol": "BAMI",
     "totalSupply": "20000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/C0884cCE945fCf7F3AE4471B5A16d83065D35c31.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/C0884cCE945fCf7F3AE4471B5A16d83065D35c31.png"
   },
   {
     "name": "Wrapped AADA",
@@ -410,7 +410,7 @@
     "tokenSymbol": "wAADA",
     "totalSupply": "99999999000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/452c651DF673fFA9F4017Cb57Ec1FFd8762B2C8b.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/452c651DF673fFA9F4017Cb57Ec1FFd8762B2C8b.png"
   },
   {
     "name": "sleepearn.finance",
@@ -418,7 +418,7 @@
     "tokenSymbol": "SEN",
     "totalSupply": "1000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/b697231730C004110A86f51BfF4B8DD085c0CB28.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/b697231730C004110A86f51BfF4B8DD085c0CB28.png"
   },
   {
     "name": "Kephi Token",
@@ -427,7 +427,7 @@
     "tokenSymbol": "KPHI",
     "totalSupply": "50000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d9aa394a71ca66bdd61061b54630f82619dbb950.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/d9aa394a71ca66bdd61061b54630f82619dbb950.png"
   },
   {
     "name": "100MAN",
@@ -435,7 +435,7 @@
     "tokenSymbol": "MAN",
     "totalSupply": "4480000000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/861925fee53a3c8fa3a49bcc2a286c54560a2c8f.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/861925fee53a3c8fa3a49bcc2a286c54560a2c8f.png"
   },
   {
     "name": "Trustpay Token",
@@ -443,7 +443,7 @@
     "tokenSymbol": "TPH",
     "totalSupply": "3000000000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/2cb25dd27b1f7733d4f33e855c281634e0174a98.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/2cb25dd27b1f7733d4f33e855c281634e0174a98.png"
   },
   {
     "name": "Vietnam Gold Token",
@@ -452,7 +452,7 @@
     "tokenSymbol": "CHI",
     "totalSupply": "10000000",
     "decimal": 3,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/f8bB30c912a46f57F2B499111cb536dB13A044c3.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/f8bB30c912a46f57F2B499111cb536dB13A044c3.png"
   },
   {
     "name": "LGBT Token",
@@ -461,7 +461,7 @@
     "tokenSymbol": "LGBT",
     "totalSupply": "1000000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/219fa73102e05f6cb8a2dfe110062a0c8d9738e3.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/219fa73102e05f6cb8a2dfe110062a0c8d9738e3.png"
   },
   {
     "name": "MOONKA Token",
@@ -469,7 +469,7 @@
     "tokenSymbol": "MKA",
     "totalSupply": "100000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c6d8f449b89c5a54a79898c54ad1d33f7928016b.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/c6d8f449b89c5a54a79898c54ad1d33f7928016b.png"
   },
   {
     "name": "GO24",
@@ -478,7 +478,7 @@
     "tokenSymbol": "Go24",
     "totalSupply": "10000000000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d570e228e0af1d3c8d3196496e14845d93ee9a48.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/d570e228e0af1d3c8d3196496e14845d93ee9a48.png"
   },
   {
     "name": "SHC",
@@ -487,7 +487,7 @@
     "tokenSymbol": "SHC",
     "totalSupply": "20000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0485c5b03ec228603b604c57d2203fe69500cf26.webp"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/0485c5b03ec228603b604c57d2203fe69500cf26.webp"
   },
   {
     "name": "Nami Corporation",
@@ -496,7 +496,7 @@
     "tokenSymbol": "NAMI",
     "totalSupply": "10000000000000000000000000",
     "decimal": 18,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c225836037b1f6526dc76590078dfcf8dee56d23.webp"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/c225836037b1f6526dc76590078dfcf8dee56d23.webp"
   },
   {
     "name": "VNDC International Digital Banking",
@@ -504,7 +504,7 @@
     "tokenSymbol": "VIDB",
     "totalSupply": "10000000000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/dca0334f63dc677d896e3b657bf95a519e47e3a8.png"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/dca0334f63dc677d896e3b657bf95a519e47e3a8.png"
   },
   {
     "name": "WhiteHub",
@@ -512,7 +512,7 @@
     "tokenSymbol": "WHC",
     "totalSupply": "2000000000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/8a033ecb623dee4cadcde3f65fb0565c3cac64a8.webp"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/8a033ecb623dee4cadcde3f65fb0565c3cac64a8.webp"
   },
   {
     "name": "VNC Fund Certificate",
@@ -520,7 +520,7 @@
     "tokenSymbol": "VNCT",
     "totalSupply": "150900000000000",
     "decimal": 8,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/f1a776c51713b1bf8327f86f5da83f4d4633f405.webp"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/f1a776c51713b1bf8327f86f5da83f4d4633f405.webp"
   },
   {
     "name": "VNDC",
@@ -529,7 +529,7 @@
     "tokenSymbol": "VNDC",
     "totalSupply": "235000000000",
     "decimal": 0,
-    "logo": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ed78d62abe4025ddf182d42cb9917d353964a710.webp"
+    "logo": "https://storage.googleapis.com/kardiachain-explorer/explorer.kardiachain.io/logo/ed78d62abe4025ddf182d42cb9917d353964a710.webp"
   },  
   {
     "name": "USD Coin",
